@@ -1,2 +1,2 @@
 # AngularPractice
-Practice project to understand AngularJS
+Practice project to understand AngularJS.
